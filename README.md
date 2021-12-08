@@ -3,7 +3,7 @@ Nice to meet you! Im a passionate software developer ranging from web and mobile
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=concernedmate)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=concernedmate)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=concernedmate&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
