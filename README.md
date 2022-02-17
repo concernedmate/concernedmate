@@ -1,9 +1,15 @@
 ### Hi there 👋
 Nice to meet you! Im a passionate software developer ranging from web and mobile apps to desktop games!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=concernedmate)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=concernedmate&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left">
+<a href="https://github.com/concernedmate">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=concernedmate)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=concernedmate&hide=html)](https://github.com/anuraghazra/github-readme-stats"/>
+</a>
+</p>
+
+
 
 
 <!--
