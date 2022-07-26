@@ -10,7 +10,7 @@ Nice to meet you! Im a passionate software developer ranging from web and mobile
 </p>
 </p>
 
-<p align="center"><img alt="Robertus Agung Setiawan"  src="https://komarev.com/ghpvc/?username=concernedmate&label=Profile%20views&color=0e75b6&style=flat"/></p>
+<p align="center"><img alt="concernedmate"  src="https://komarev.com/ghpvc/?username=concernedmate&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <!--
 **concernedmate/concernedmate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
