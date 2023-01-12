@@ -3,10 +3,10 @@ Nice to meet you! Im a passionate software developer ranging from web and mobile
 
 
 <p align="left">
-<a href="https://github.com/concernedmate">
+<!--<a href="https://github.com/concernedmate">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=concernedmate"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=concernedmate&hide=html"/>
-</a>
+</a>-->
 </p>
 </p>
 
