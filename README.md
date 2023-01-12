@@ -7,6 +7,7 @@ Nice to meet you! Im a passionate software developer ranging from web and mobile
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=concernedmate"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=concernedmate&hide=html"/>
 </a>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </p>
 
