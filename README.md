@@ -1,5 +1,5 @@
 ### Hi there 👋
-Nice to meet you! Im a passionate software developer ranging from web and mobile apps to desktop games!
+Nice to meet you! Im a passionate programmer interested in backend web development and multiplayer games
 
 
 <p align="left">
