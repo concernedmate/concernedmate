@@ -2,13 +2,15 @@
 Nice to meet you! Im a passionate programmer interested in backend web development and multiplayer games
 
 
+<!--
 <p align="left">
 <a href="https://github.com/concernedmate">
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=concernedmate"/>
-  <!-- <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=concernedmate&hide=html"/> -->
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=concernedmate&hide=html"/>
 </a>
 </p>
 </p>
+-->
 
 <p align="center"><img alt="concernedmate"  src="https://komarev.com/ghpvc/?username=concernedmate&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <!--
