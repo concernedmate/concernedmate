@@ -1,5 +1,5 @@
 ### Hi there 👋
-Nice to meet you! Im a passionate programmer interested in backend web development and multiplayer games
+Nice to meet you! Im a passionate software engineer striving for quality software
 
 
 <!--
